@@ -18,7 +18,7 @@
     the dependencies minimal to ease maintenance, error handling complete according to an articulated strategy
 
 
-- Bad code tries to do too much, clean code is focused and it does one thing well.
+- Bad code tries to do too much, clean code is FOCUSED and it does one thing well.
 
 
 - Minimal dependencies.
@@ -30,7 +30,7 @@
 - Shorter code is better.
 
 
-- Goog code is written by someone who cares. Someone has taken the time to keep it simple and orderly.
+- Good code is written by someone who cares. Someone has taken the time to keep it simple and orderly.
 
 
 - We are constantly reading old code as part of the effort to write new code.
